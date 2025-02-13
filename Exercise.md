@@ -55,7 +55,10 @@ mkdir (foldername)
 
 Command to print the number of lines, words, and characters in a file: The wc command is used to count lines, words, and characters.
 
+# Exercise 3B
 
+![alt text](Linux-images/wc.png)
 
+# Exercise 4
 
 
