@@ -51,4 +51,11 @@ mkdir (foldername)
 
 
 
+# Exercise 3
+
+Command to print the number of lines, words, and characters in a file: The wc command is used to count lines, words, and characters.
+
+
+
+
 
