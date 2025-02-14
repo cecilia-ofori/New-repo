@@ -163,3 +163,25 @@ Command to see the type of a file in a directory:
 Use the file command:
 ![alt text](Linux-images/file.png)
 
+
+# Exercise 12
+Unix file system tree:
+
+The Unix file system tree is often called the Filesystem Hierarchy Standard (FHS).
+
+
+3 important folders in this tree:
+
+1. /home: User home directories.
+2. /etc: Configuration files.
+3. /bin: Essential system binaries.
+
+# Exercise 13
+
+head: Displays the first part of a file .(default is the first 10 lines)
+![alt text](Linux-images/head.png)
+
+
+tail: Displays the last  part of a file. (default is the last 10 lines)
+![alt text](Linux-images/tail.png)
+
